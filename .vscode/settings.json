@@ -2,8 +2,8 @@
     "makefile.makefilePath": "Makefile",
     // The crux of the issue: 
     // "makefile.makePath": "C:/Cygwin64/bin/make.exe",
-    "makefile.makePath": "",
-    // "makefile.makePath": "make.exe",
+    // "makefile.makePath": "/usr/bin/make",
+    "makefile.makePath": "make.exe",
     "terminal.integrated.profiles.windows": {
         "Cygwin64": {
             "path": "C:\\cygwin64\\bin\\bash.exe", 
